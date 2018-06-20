@@ -4,7 +4,7 @@ import os
 
 def Capfunc():  # Function definition to find the capital letters in a file                  
     os.chdir("C:\\Users\\Sonali\\Desktop")
-    with.open('Filname.txt')as filename:
+    with.open('Filename.txt')as filename:
         count=0
         for element in filename.read():
             if element.isupper():
