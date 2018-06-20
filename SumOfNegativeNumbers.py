@@ -7,5 +7,5 @@ def SumOfNegativeNumbers():
    i=len(given_list)-1                           #len function in python computes the length of the list
    while given_list[i]<0:                        #Checks if the value in the given list is negative i.e less than ZERO
        sum=sum+ given_list[i])
-       j--
+       j=j-1
    print(sum)    
