@@ -11,7 +11,7 @@ class Patient:
         
         
 obj=Patient("Sonali",1,334-33-9280)
-obj2=Patient("Trump",2,334-03-8880)
+obj2=Patient("Trump",2,334-00-8880)
 obj.introduce_self()
 obj2.introduce_self()
 
